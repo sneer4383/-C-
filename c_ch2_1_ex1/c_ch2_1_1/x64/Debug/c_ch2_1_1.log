@@ -1,0 +1,5 @@
+﻿  c_ch2_1_ex1.c
+  c_ch2_1_ex2.c
+  코드를 생성하고 있습니다...
+c_ch2_1_ex2.obj : error LNK2005: main이(가) c_ch2_1_ex1.obj에 이미 정의되어 있습니다.
+C:\Users\sneer\source\repos\[STUDY] C programming\c_ch2_1_1\x64\Debug\c_ch2_1_1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
