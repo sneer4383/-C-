@@ -1,0 +1,3 @@
+﻿  c_ch4_2_FloatError.c
+C:\Users\sneer\source\repos\[STUDY] C programming\c_ch4_2_FloatError\c_ch4_2_FloatError\c_ch4_2_FloatError.c(9,19): warning C4305:  '+=': 'double'에서 'float'(으)로 잘립니다.
+  c_ch4_2_FloatError.vcxproj -> C:\Users\sneer\source\repos\[STUDY] C programming\c_ch4_2_FloatError\Debug\c_ch4_2_FloatError.exe
