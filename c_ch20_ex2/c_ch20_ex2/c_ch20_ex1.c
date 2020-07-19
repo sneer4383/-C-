@@ -1,33 +1,46 @@
 #include <stdio.h>
-void Snail(int(*arr)[10], int n);
-void Show(int(*arr)[10], int n);
 
 int main(void)
 {
     int n;
     int arr[100][100] = { 0 };
-    
-    printf("10 이하의 숫자를 입력하시오: ");
+    int cnt = 0;
+    int i, j, max, end;
+    int x = -1, y = 0, dx=1, dy=1;
     scanf("%d", &n);
+    end = n;
+    max = n * n;
 
-    Snail(arr,n);
-    Show(arr,n);
+    while (1)
+    {
+        for (i = 0;i < end;i++) //가로 입력
+        {
+            x += dx;
+            arr[y][x] = ++cnt;
+        }
+        
+        end--;
+        if (cnt == max)
+            break;
+        
+        for (i = 0;i < end;i++) //세로 입력
+        {
+            y += dy;
+            arr[y][x] = ++cnt;
+        }
 
+        dx *= -1;
+        dy *= -1;
+    }
+
+        
+    for (i = 0;i < n;i++) //출력
+    {
+        for (j = 0;j < n;j++)
+            printf("%3d ", arr[i][j]);
+        printf("\n");
+    }
     return 0;
 }
 
-void Snail(int(*arr)[100], int n)
-{
     
-}
-
-void Show(int(*arr)[100], int n)
-{
-    for (int i = 0;i < n;i++)
-    {
-        for (int j = 0;j < n;j++)
-            printf("%2d ", arr[i][j]);
-        printf("\n");
-    }
-    
-}

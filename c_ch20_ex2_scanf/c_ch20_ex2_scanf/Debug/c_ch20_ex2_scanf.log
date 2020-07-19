@@ -1,0 +1,12 @@
+﻿  c_ch20_ex2_scanf.c
+C:\Users\sneer\source\repos\[STUDY] C programming\c_ch20_ex2_scanf\c_ch20_ex2_scanf\c_ch20_ex2_scanf.c(11,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\sneer\source\repos\[STUDY] C programming\c_ch20_ex2_scanf\c_ch20_ex2_scanf\c_ch20_ex2_scanf.c(26,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\sneer\source\repos\[STUDY] C programming\c_ch20_ex2_scanf\c_ch20_ex2_scanf\c_ch20_ex2_scanf.c(31,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\sneer\source\repos\[STUDY] C programming\c_ch20_ex2_scanf\c_ch20_ex2_scanf\c_ch20_ex2_scanf.c(36,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\sneer\source\repos\[STUDY] C programming\c_ch20_ex2_scanf\c_ch20_ex2_scanf\c_ch20_ex2_scanf.c(41,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+  c_ch20_ex2_scanf.vcxproj -> C:\Users\sneer\source\repos\[STUDY] C programming\c_ch20_ex2_scanf\Debug\c_ch20_ex2_scanf.exe
