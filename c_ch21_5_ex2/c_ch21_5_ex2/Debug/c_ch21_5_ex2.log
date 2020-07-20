@@ -1,0 +1,6 @@
+﻿  c_ch21_5_ex2.c
+C:\Users\sneer\source\repos\[STUDY] C programming\c_ch21_5_ex2\c_ch21_5_ex2\c_ch21_5_ex2.c(24,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+C:\Users\sneer\source\repos\[STUDY] C programming\c_ch21_5_ex2\c_ch21_5_ex2\c_ch21_5_ex2.c(25,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(90): message :  'strcat' 선언을 참조하십시오.
+  c_ch21_5_ex2.vcxproj -> C:\Users\sneer\source\repos\[STUDY] C programming\c_ch21_5_ex2\Debug\c_ch21_5_ex2.exe
